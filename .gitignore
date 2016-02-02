@@ -1,0 +1,7 @@
+*.pyc
+# created/used by supybot-test
+/backup
+/test-data
+/test-logs
+/test-conf
+/tmp
